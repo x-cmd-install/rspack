@@ -1,0 +1,70 @@
+about:
+  description: Fast Rust-based bundler for the web with a modernized webpack API 🦀
+  license: MIT
+  homepage: https://rspack.rs
+  head: c597e65
+  archived: false
+  latestVersion: v2.2.2
+  collectedAt: 2026-09-04T04:40:30Z
+timeline:
+  created: 2022-04-01
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-01
+popularity:
+  star: 12886
+  watcher: 57
+  fork: 845
+  release: 234
+  contributor: 308
+  pullRequest: 1760
+  issue: 3536
+language:
+  Rust: 13185918
+  CSS: 5944545
+  MDX: 3157995
+  TypeScript: 1818821
+  JavaScript: 266106
+  EJS: 115620
+  HTML: 20203
+  Shell: 18534
+  WebAssembly: 10585
+  SCSS: 9925
+  Vue: 3177
+  Less: 1599
+  CoffeeScript: 672
+  Dockerfile: 541
+  Pug: 306
+totalLine: 24554547
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 7
+    mergedPR: 256
+    openPR: 27
+    closedIssue: 23
+    openIssue: 11
+    commit: 266
+  last90d:
+    since: 2026-06-06
+    release: 21
+    mergedPR: 685
+    openPR: 73
+    closedIssue: 84
+    openIssue: 42
+    commit: 700
+  last180d:
+    since: 2026-03-08
+    release: 40
+    mergedPR: 1389
+    openPR: 84
+    closedIssue: 147
+    openIssue: 58
+    commit: 1365
+  last360d:
+    since: 2025-09-09
+    release: 75
+    mergedPR: 2550
+    openPR: 96
+    closedIssue: 334
+    openIssue: 71
+    commit: 2494
