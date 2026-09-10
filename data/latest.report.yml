@@ -2,28 +2,28 @@ about:
   description: "Fast Rust-based bundler for the web with a modernized webpack API 🦀"
   license: MIT
   homepage: https://rspack.rs
-  head: f4f0352
+  head: 94eee0f
   archived: false
   latestVersion: "v2.2.3"
   latestRelease: "v2.2.3"
   latestPrerelease: "v2.2.0-rc.0"
-  collectedAt: 2026-09-09T19:34:55Z
+  collectedAt: 2026-09-10T05:21:00Z
 timeline:
   created: 2022-04-01
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-21
 popularity:
-  star: 12891
+  star: 12892
   watcher: 58
   fork: 848
   release: 235
   contributor: 305
-  pullRequest: 11584
-  issue: 3543
+  pullRequest: 11589
+  issue: 3544
 language:
-  Rust: 13231505
+  Rust: 13246241
   CSS: 5950784
   MDX: 3173306
   TypeScript: 1820103
@@ -38,77 +38,77 @@ language:
   CoffeeScript: 672
   Dockerfile: 541
   Pug: 306
-totalBytes: 24625277
+totalBytes: 24640013
 recent:
   last30d:
-    since: 2026-08-10
+    since: 2026-08-11
     release: 8
-    mergedPR: 279
-    openPR: 49
+    mergedPR: 274
+    openPR: 52
     closedIssue: 27
-    openIssue: 10
-    commit: 252
+    openIssue: 11
+    commit: 0
   last60d:
-    since: 2026-07-11
+    since: 2026-07-12
     release: 13
-    mergedPR: 488
-    openPR: 77
-    closedIssue: 68
-    openIssue: 32
-    commit: 475
+    mergedPR: 489
+    openPR: 79
+    closedIssue: 67
+    openIssue: 33
+    commit: 0
   last90d:
-    since: 2026-06-11
+    since: 2026-06-12
     release: 20
-    mergedPR: 725
-    openPR: 91
-    closedIssue: 94
-    openIssue: 39
-    commit: 702
+    mergedPR: 715
+    openPR: 94
+    closedIssue: 92
+    openIssue: 40
+    commit: 0
   last180d:
-    since: 2026-03-13
+    since: 2026-03-14
     release: 39
-    mergedPR: 1390
-    openPR: 105
+    mergedPR: 1383
+    openPR: 108
     closedIssue: 158
-    openIssue: 52
-    commit: 1348
+    openIssue: 53
+    commit: 0
   last360d:
-    since: 2025-09-14
+    since: 2025-09-15
     release: 75
-    mergedPR: 2604
-    openPR: 116
-    closedIssue: 345
-    openIssue: 63
-    commit: 2520
+    mergedPR: 2599
+    openPR: 119
+    closedIssue: 342
+    openIssue: 64
+    commit: 0
   last720d:
-    since: 2024-09-19
+    since: 2024-09-20
     release: 100
-    mergedPR: 5067
-    openPR: 121
-    closedIssue: 1069
-    openIssue: 95
-    commit: 5012
+    mergedPR: 5064
+    openPR: 124
+    closedIssue: 1067
+    openIssue: 96
+    commit: 5008
 total:
   release: 235
-  mergedPR: 9782
-  openPR: 121
+  mergedPR: 9784
+  openPR: 124
   closedIssue: 3434
-  openIssue: 109
-  commit: 9559
+  openIssue: 110
+  commit: 9561
 ---
 path: /home/runner/.x-repo/github.com/web-infra-dev/rspack
-collectedAt: 2026-09-09T19:35:19Z
+collectedAt: 2026-09-10T05:21:29Z
 loc:
   Rust:
-    code: 320894
-    comments: 6597
-    blanks: 29851
-    files: 1369
+    code: 321249
+    comments: 6607
+    blanks: 29912
+    files: 1370
   JavaScript:
-    code: 248020
-    comments: 9547
-    blanks: 15591
-    files: 16166
+    code: 248593
+    comments: 9565
+    blanks: 15613
+    files: 16171
   Css:
     code: 139427
     comments: 473
@@ -135,8 +135,8 @@ loc:
     blanks: 4
     files: 92
   Toml:
-    code: 3501
-    comments: 270
+    code: 3505
+    comments: 269
     blanks: 556
     files: 109
   Tsx:
@@ -200,10 +200,10 @@ loc:
     blanks: 19616
     files: 1452
 total:
-  code: 810319
-  comments: 232788
-  blanks: 79477
-  files: 21976
+  code: 811251
+  comments: 232829
+  blanks: 79562
+  files: 21982
 ---
 
 ---
