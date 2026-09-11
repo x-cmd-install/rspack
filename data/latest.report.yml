@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.2.3"
   latestRelease: "v2.2.3"
   latestPrerelease: "v2.2.0-rc.0"
-  collectedAt: 2026-09-10T17:06:06Z
+  collectedAt: 2026-09-11T00:04:16Z
 timeline:
   created: 2022-04-01
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-08-21
 popularity:
-  star: 12897
+  star: 12896
   watcher: 58
   fork: 849
   release: 235
   contributor: 306
-  pullRequest: 11606
+  pullRequest: 11607
   issue: 3547
 language:
   Rust: 13245829
@@ -41,63 +41,63 @@ language:
 totalBytes: 24644405
 recent:
   last30d:
-    since: 2026-08-11
-    release: 8
-    mergedPR: 285
-    openPR: 47
-    closedIssue: 30
+    since: 2026-08-12
+    release: 7
+    mergedPR: 273
+    openPR: 48
+    closedIssue: 28
     openIssue: 11
     commit: 263
   last60d:
-    since: 2026-07-12
+    since: 2026-07-13
     release: 13
-    mergedPR: 500
+    mergedPR: 496
     openPR: 74
-    closedIssue: 70
-    openIssue: 33
+    closedIssue: 65
+    openIssue: 29
     commit: 486
   last90d:
-    since: 2026-06-12
+    since: 2026-06-13
     release: 20
-    mergedPR: 726
-    openPR: 89
-    closedIssue: 95
+    mergedPR: 717
+    openPR: 90
+    closedIssue: 94
     openIssue: 40
     commit: 713
   last180d:
-    since: 2026-03-14
+    since: 2026-03-15
     release: 39
-    mergedPR: 1394
-    openPR: 103
-    closedIssue: 161
+    mergedPR: 1393
+    openPR: 104
+    closedIssue: 160
     openIssue: 53
     commit: 1359
   last360d:
-    since: 2025-09-15
+    since: 2025-09-16
     release: 75
-    mergedPR: 2610
-    openPR: 114
-    closedIssue: 345
+    mergedPR: 2600
+    openPR: 115
+    closedIssue: 342
     openIssue: 64
     commit: 2531
   last720d:
-    since: 2024-09-20
+    since: 2024-09-21
     release: 100
     mergedPR: 5075
-    openPR: 119
+    openPR: 120
     closedIssue: 1070
     openIssue: 96
-    commit: 5017
+    commit: 5010
 total:
   release: 235
   mergedPR: 9795
-  openPR: 119
+  openPR: 120
   closedIssue: 3437
   openIssue: 110
   commit: 9570
 ---
 path: /home/runner/.x-repo/github.com/web-infra-dev/rspack
-collectedAt: 2026-09-10T17:06:36Z
+collectedAt: 2026-09-11T00:04:46Z
 loc:
   Rust:
     code: 321228
