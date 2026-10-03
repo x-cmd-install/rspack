@@ -14,7 +14,7 @@ x install rspack
 
 ## Code insight
 
-Total: **829,380** lines of code across **20433** files in the top 5 languages.
+Total: **829,512** lines of code across **20433** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,26 +33,26 @@ Total: **829,380** lines of code across **20433** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.2.8` (2026-09-28)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-03
 
 ## Popularity
 
-- **Stars**: 12,932 · **Forks**: 865 · **Open issues**: 3,591 · **Contributors**: 313
+- **Stars**: 12,932 · **Forks**: 867 · **Open issues**: 3,592 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 240 · **Merged PRs**: 9998 · **Open PRs**: 126 · **Closed issues**: 3475 · **Open issues**: 116 · **Commits**: 9755
+- **Releases**: 240 · **Merged PRs**: 10002 · **Open PRs**: 131 · **Closed issues**: 3475 · **Open issues**: 117 · **Commits**: 9759
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 6 | 285 | 65 | 33 | 24 | 263 |
-| last60d | 2026-08-03 | 14 | 556 | 77 | 61 | 31 | 543 |
-| 90d | 2026-07-04 | 19 | 728 | 94 | 111 | 45 | 716 |
-| last180d | 2026-04-05 | 37 | 1416 | 111 | 177 | 61 | 1395 |
-| 360d | 2025-10-07 | 75 | 2711 | 121 | 356 | 70 | 2633 |
-| last720d | 2024-10-12 | 100 | 5189 | 126 | 1065 | 101 | 5113 |
+| 30d | 2026-09-03 | 6 | 284 | 67 | 30 | 25 | 267 |
+| last60d | 2026-08-04 | 14 | 553 | 81 | 59 | 31 | 547 |
+| 90d | 2026-07-05 | 19 | 732 | 99 | 111 | 46 | 720 |
+| last180d | 2026-04-06 | 37 | 1420 | 116 | 177 | 62 | 1399 |
+| 360d | 2025-10-08 | 75 | 2715 | 126 | 356 | 71 | 2637 |
+| last720d | 2024-10-13 | 100 | 5191 | 131 | 1063 | 102 | 5113 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for rspack lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:03:01Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:52:38Z._
