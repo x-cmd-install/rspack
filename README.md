@@ -14,15 +14,15 @@ x install rspack
 
 ## Code insight
 
-Total: **886,038** lines of code across **22474** files in the top 5 languages.
+Total: **887,331** lines of code across **22519** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 349,627 | 8,476 | 31,742 | 1477 |
-| JavaScript | 199,942 | 7,421 | 14,803 | 14977 |
-| TypeScript | 143,077 | 8,041 | 10,785 | 3877 |
-| Css | 141,849 | 509 | 3,091 | 1108 |
-| Json | 23,664 | 0 | 15 | 1035 |
+| Rust | 350,215 | 8,484 | 31,826 | 1478 |
+| JavaScript | 200,281 | 7,428 | 14,846 | 15009 |
+| TypeScript | 143,423 | 8,043 | 10,801 | 3883 |
+| Css | 141,861 | 509 | 3,091 | 1112 |
+| Json | 23,672 | 0 | 15 | 1037 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **886,038** lines of code across **22474** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.3.3` (2026-11-17)
-- **Last commit**: 2026-11-23
+- **Latest**: `v2.3.4` (2026-11-24)
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
-- **Stars**: 12,991 · **Forks**: 886 · **Open issues**: 3,697 · **Contributors**: 336
+- **Stars**: 12,994 · **Forks**: 884 · **Open issues**: 3,699 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 248 · **Merged PRs**: 10585 · **Open PRs**: 129 · **Closed issues**: 3578 · **Open issues**: 119 · **Commits**: 10369
+- **Releases**: 249 · **Merged PRs**: 10603 · **Open PRs**: 124 · **Closed issues**: 3582 · **Open issues**: 117 · **Commits**: 10390
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 5 | 365 | 62 | 55 | 25 | 366 |
-| last60d | 2026-09-24 | 9 | 596 | 87 | 84 | 36 | 667 |
-| 90d | 2026-08-25 | 17 | 946 | 100 | 129 | 43 | 1010 |
-| last180d | 2026-05-27 | 37 | 1630 | 118 | 240 | 61 | 1775 |
-| 360d | 2025-11-28 | 75 | 2929 | 128 | 384 | 75 | 3260 |
-| last720d | 2024-12-03 | 100 | 5461 | 129 | 1031 | 101 | 5422 |
+| 30d | 2026-10-25 | 6 | 379 | 58 | 57 | 24 | 387 |
+| last60d | 2026-09-25 | 10 | 609 | 82 | 86 | 35 | 688 |
+| 90d | 2026-08-26 | 18 | 955 | 94 | 130 | 41 | 1031 |
+| last180d | 2026-05-28 | 38 | 1642 | 113 | 242 | 59 | 1796 |
+| 360d | 2025-11-29 | 76 | 2944 | 123 | 388 | 73 | 3281 |
+| last720d | 2024-12-04 | 100 | 5469 | 124 | 1034 | 99 | 5438 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for rspack lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:23:45Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:22:06Z._
