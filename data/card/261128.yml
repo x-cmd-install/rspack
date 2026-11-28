@@ -1,0 +1,209 @@
+about:
+  description: "Fast Rust-based bundler for the web with a modernized webpack API 🦀"
+  license: MIT
+  homepage: https://rspack.rs
+  head: c0264e9
+  archived: false
+  latestVersion: "v2.3.4"
+  latestRelease: "v2.3.4"
+  latestPrerelease: "v2.3.0-rc.0"
+  collectedAt: 2026-11-28T08:40:36Z
+timeline:
+  created: 2022-04-01
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-24
+  lastRelease: 2026-11-24
+  lastPrerelease: 2026-10-27
+popularity:
+  star: 13004
+  watcher: 55
+  fork: 885
+  release: 249
+  contributor: 335
+  pullRequest: 12692
+  issue: 3711
+language:
+  Rust: 14507955
+  CSS: 5999824
+  TypeScript: 4194665
+  MDX: 3511055
+  JavaScript: 1614063
+  EJS: 127238
+  HTML: 21264
+  Shell: 13191
+  WebAssembly: 10735
+  SCSS: 9925
+  Vue: 3257
+  Less: 1855
+  CoffeeScript: 672
+  Dockerfile: 541
+  Pug: 306
+totalBytes: 30016546
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 361
+    openPR: 61
+    closedIssue: 57
+    openIssue: 27
+    commit: 429
+  last60d:
+    since: 2026-09-29
+    release: 9
+    mergedPR: 622
+    openPR: 87
+    closedIssue: 86
+    openIssue: 37
+    commit: 730
+  last90d:
+    since: 2026-08-30
+    release: 16
+    mergedPR: 963
+    openPR: 100
+    closedIssue: 136
+    openIssue: 46
+    commit: 1073
+  last180d:
+    since: 2026-06-01
+    release: 37
+    mergedPR: 1658
+    openPR: 120
+    closedIssue: 246
+    openIssue: 64
+    commit: 1838
+  last360d:
+    since: 2025-12-03
+    release: 75
+    mergedPR: 2961
+    openPR: 130
+    closedIssue: 390
+    openIssue: 78
+    commit: 3323
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 5501
+    openPR: 131
+    closedIssue: 1039
+    openIssue: 104
+    commit: 5452
+total:
+  release: 249
+  mergedPR: 10646
+  openPR: 131
+  closedIssue: 3589
+  openIssue: 122
+  commit: 10433
+---
+path: /home/runner/.x-repo/github.com/web-infra-dev/rspack
+collectedAt: 2026-11-28T08:41:01Z
+loc:
+  Rust:
+    code: 351611
+    comments: 8525
+    blanks: 31978
+    files: 1485
+  JavaScript:
+    code: 202446
+    comments: 7472
+    blanks: 14988
+    files: 15084
+  TypeScript:
+    code: 143994
+    comments: 8046
+    blanks: 10841
+    files: 3889
+  Css:
+    code: 141870
+    comments: 509
+    blanks: 3091
+    files: 1115
+  Json:
+    code: 23638
+    comments: 0
+    blanks: 15
+    files: 1036
+  Yaml:
+    code: 12532
+    comments: 6
+    blanks: 3190
+    files: 9
+  Svg:
+    code: 6359
+    comments: 106
+    blanks: 4
+    files: 100
+  Toml:
+    code: 3704
+    comments: 285
+    blanks: 591
+    files: 114
+  Tsx:
+    code: 2934
+    comments: 38
+    blanks: 137
+    files: 41
+  Html:
+    code: 969
+    comments: 10
+    blanks: 66
+    files: 104
+  Jsx:
+    code: 657
+    comments: 0
+    blanks: 86
+    files: 68
+  Sass:
+    code: 513
+    comments: 2
+    blanks: 90
+    files: 36
+  WebAssembly:
+    code: 347
+    comments: 0
+    blanks: 25
+    files: 42
+  Less:
+    code: 142
+    comments: 0
+    blanks: 19
+    files: 38
+  Vue:
+    code: 39
+    comments: 0
+    blanks: 10
+    files: 9
+  CoffeeScript:
+    code: 18
+    comments: 3
+    blanks: 4
+    files: 5
+  Pug:
+    code: 17
+    comments: 0
+    blanks: 1
+    files: 5
+  Sh:
+    code: 16
+    comments: 4
+    blanks: 5
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2004
+    blanks: 964
+    files: 64
+  Text:
+    code: 0
+    comments: 224519
+    blanks: 21792
+    files: 1971
+total:
+  code: 892312
+  comments: 257999
+  blanks: 88988
+  files: 25217
+---
+
+---

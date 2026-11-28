@@ -2,118 +2,118 @@ about:
   description: "Fast Rust-based bundler for the web with a modernized webpack API 🦀"
   license: MIT
   homepage: https://rspack.rs
-  head: 9e9e63d
+  head: c0264e9
   archived: false
   latestVersion: "v2.3.4"
   latestRelease: "v2.3.4"
   latestPrerelease: "v2.3.0-rc.0"
-  collectedAt: 2026-11-27T08:55:07Z
+  collectedAt: 2026-11-28T08:40:36Z
 timeline:
   created: 2022-04-01
-  lastCommit: 2026-11-27
+  lastCommit: 2026-11-28
   lastVersion: 2026-11-24
   lastRelease: 2026-11-24
   lastPrerelease: 2026-10-27
 popularity:
-  star: 13002
+  star: 13004
   watcher: 55
-  fork: 884
+  fork: 885
   release: 249
   contributor: 335
-  pullRequest: 12676
-  issue: 3709
+  pullRequest: 12692
+  issue: 3711
 language:
-  Rust: 14487427
+  Rust: 14507955
   CSS: 5999824
-  TypeScript: 4193397
+  TypeScript: 4194665
   MDX: 3511055
-  JavaScript: 1613986
+  JavaScript: 1614063
   EJS: 127238
   HTML: 21264
   Shell: 13191
-  WebAssembly: 10585
+  WebAssembly: 10735
   SCSS: 9925
   Vue: 3257
   Less: 1855
   CoffeeScript: 672
   Dockerfile: 541
   Pug: 306
-totalBytes: 29994523
+totalBytes: 30016546
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 5
-    mergedPR: 367
-    openPR: 58
-    closedIssue: 58
-    openIssue: 28
-    commit: 423
+    mergedPR: 361
+    openPR: 61
+    closedIssue: 57
+    openIssue: 27
+    commit: 429
   last60d:
-    since: 2026-09-28
-    release: 10
-    mergedPR: 626
-    openPR: 84
-    closedIssue: 87
-    openIssue: 39
-    commit: 724
+    since: 2026-09-29
+    release: 9
+    mergedPR: 622
+    openPR: 87
+    closedIssue: 86
+    openIssue: 37
+    commit: 730
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 16
-    mergedPR: 960
-    openPR: 95
-    closedIssue: 133
-    openIssue: 47
-    commit: 1067
+    mergedPR: 963
+    openPR: 100
+    closedIssue: 136
+    openIssue: 46
+    commit: 1073
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 37
-    mergedPR: 1657
-    openPR: 115
-    closedIssue: 245
-    openIssue: 65
-    commit: 1832
+    mergedPR: 1658
+    openPR: 120
+    closedIssue: 246
+    openIssue: 64
+    commit: 1838
   last360d:
-    since: 2025-12-02
-    release: 76
+    since: 2025-12-03
+    release: 75
     mergedPR: 2961
-    openPR: 125
-    closedIssue: 387
-    openIssue: 79
-    commit: 3317
+    openPR: 130
+    closedIssue: 390
+    openIssue: 78
+    commit: 3323
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
-    mergedPR: 5496
-    openPR: 126
-    closedIssue: 1036
-    openIssue: 105
-    commit: 5447
+    mergedPR: 5501
+    openPR: 131
+    closedIssue: 1039
+    openIssue: 104
+    commit: 5452
 total:
   release: 249
-  mergedPR: 10640
-  openPR: 126
-  closedIssue: 3586
-  openIssue: 123
-  commit: 10427
+  mergedPR: 10646
+  openPR: 131
+  closedIssue: 3589
+  openIssue: 122
+  commit: 10433
 ---
 path: /home/runner/.x-repo/github.com/web-infra-dev/rspack
-collectedAt: 2026-11-27T08:55:58Z
+collectedAt: 2026-11-28T08:41:01Z
 loc:
   Rust:
-    code: 351031
-    comments: 8513
-    blanks: 31920
-    files: 1483
+    code: 351611
+    comments: 8525
+    blanks: 31978
+    files: 1485
   JavaScript:
-    code: 202255
+    code: 202446
     comments: 7472
-    blanks: 14981
-    files: 15055
+    blanks: 14988
+    files: 15084
   TypeScript:
-    code: 143929
+    code: 143994
     comments: 8046
-    blanks: 10839
-    files: 3887
+    blanks: 10841
+    files: 3889
   Css:
     code: 141870
     comments: 509
@@ -125,15 +125,15 @@ loc:
     blanks: 15
     files: 1036
   Yaml:
-    code: 12734
+    code: 12532
     comments: 6
-    blanks: 3218
+    blanks: 3190
     files: 9
   Svg:
-    code: 6358
+    code: 6359
     comments: 106
     blanks: 4
-    files: 99
+    files: 100
   Toml:
     code: 3704
     comments: 285
@@ -160,10 +160,10 @@ loc:
     blanks: 90
     files: 36
   WebAssembly:
-    code: 339
+    code: 347
     comments: 0
     blanks: 25
-    files: 41
+    files: 42
   Less:
     code: 142
     comments: 0
@@ -196,14 +196,14 @@ loc:
     files: 64
   Text:
     code: 0
-    comments: 224420
-    blanks: 21737
-    files: 1968
+    comments: 224519
+    blanks: 21792
+    files: 1971
 total:
-  code: 891669
-  comments: 257887
-  blanks: 88894
-  files: 25179
+  code: 892312
+  comments: 257999
+  blanks: 88988
+  files: 25217
 ---
 
 ---
